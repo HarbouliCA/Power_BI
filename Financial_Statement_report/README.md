@@ -5,11 +5,11 @@ The data source for this project was connected using Azure Data Lake Gen 2, and 
 It includes various visualizations such as bar charts, Matrix, and Cards to represent the financial data in a clear and easy-to-understand format. 
 The report also includes a summary section that highlights key metrics such as revenue, expenses, and net income.
 
-he report is designed to answer the following key questions:
+The report is designed to answer the following key questions:
 
-What was the company's financial performance in 2019 and 2020?
-What were the key drivers of the company's financial performance in 2019 and 2020?
-What are the potential risks and opportunities for the company's financial future?
+What was the company's financial performance in 2019 and 2020?<br>
+What were the key drivers of the company's financial performance in 2019 and 2020?<br>
+What are the potential risks and opportunities for the company's financial future?<br>
 
 Project file : [Financial_Statement_report.pbix](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Financial_Statement_report.pbix)
 
