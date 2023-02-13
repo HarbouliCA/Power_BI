@@ -10,7 +10,7 @@ Project file : [Financial_Statement_report.pbix](https://github.com/HarbouliCA/P
 ![data_modeling](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/data_modeling.JPG)
 ![Balance_sheet](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Balance_sheet.JPG)
 
-Commentary:
+Commentary: <br>
 In 2019, the company had assets worth 52.03, a turnover of 265.03, an E.B.E of 59.07, net earnings of 3.74, a financial loan of 0, and a bank balance of 25.87. This suggests that the company had strong financial performance in 2019, with a positive net earnings and a healthy bank balance.
 
 In 2020, the company's assets decreased to 47.36, while the turnover decreased significantly to 91.04. The E.B.E also decreased to 21.86 and the company reported a negative net earnings of -4.68. Additionally, the company took on a financial loan of 16.67 and had a much lower bank balance of 1.35.
