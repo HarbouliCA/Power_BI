@@ -11,10 +11,10 @@ What was the company's financial performance in 2019 and 2020?<br>
 What were the key drivers of the company's financial performance in 2019 and 2020?<br>
 What are the potential risks and opportunities for the company's financial future?<br>
 
-Project file : [Financial_Statement_report.pbix](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Financial_Statement_report.pbix)
+Project file : [Financial_Statement_report.pbix](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Financial_Statement_report.pbix)<br>
 Report PDF file: [Financial_Statement_report.pdf](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Financial_Statement_report.pdf)
 
-![data_modeling](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/data_modeling.JPG)<br>
+![data_modeling](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/data_modeling.JPG)
 ![Balance_sheet](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Balance_sheet.JPG)
 
 Commentary: <br>
