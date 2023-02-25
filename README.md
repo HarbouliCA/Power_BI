@@ -10,7 +10,7 @@ Note: All projects in this repository were built using French accounting data.
 
 **List of projects:**
 1. [Financial_Statement_report.pbix](https://github.com/HarbouliCA/Power_BI/blob/main/Financial_Statement_report/Financial_Statement_report.pbix) -- Financial Statement Report Project. ** Data analytics  Data modeling  Data Visualizations and Reports **
-1. [.pbix](https://github.com/HarbouliCA/Power_BI/blob/main/) -- Turnover Analysis Project. ** Data analytics  Data modeling  Data Visualizations and Dashboard **
+1. [Produits Pharma.pbix](https://github.com/HarbouliCA/Power_BI/blob/main/Produits%20Pharma%20sales%20Analysis/Produits%20Pharma.pbix) -- Turnover Analysis Project. ** Data analytics  Data modeling  Data Visualizations and Dashboard **
 
 
 
